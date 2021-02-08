@@ -25,7 +25,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install virtualenv
     - name: Run sh
-      run: calil.sh
+      run: bash ./calil.sh
     - name: Commit
       run: |
         #git config --global user.email zym013579@gmail.com
