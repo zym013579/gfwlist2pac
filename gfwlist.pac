@@ -1,11 +1,13 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
+ * GFWList Last-Modified: 2020-12-25 16:34:23
+ */
+
 var proxy = 'SOCKS5 127.0.0.1:1080';
+var rules = [
     [
         [],
-        [
-            "1.com"
-        ]
+        []
     ],
     [
         [
@@ -227,6 +229,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "acevpn.com",
             "acg18.me",
             "acgkj.com",
+            "acgnx.se",
             "acmedia365.com",
             "acmetoy.com",
             "acnw.com.au",
@@ -383,7 +386,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "apiary.io",
             "apigee.com",
             "apk-dl.com",
-            "apkdler.com",
+            "apkcombo.com",
             "apkmirror.com",
             "apkmonk.com",
             "apkplz.com",
@@ -941,6 +944,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "circlethebayfortibet.org",
             "cirosantilli.com",
             "citizencn.com",
+            "citizenlab.ca",
             "citizenlab.org",
             "citizenscommission.hk",
             "citizensradio.org",
@@ -1917,6 +1921,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "golang.org",
             "goldbet.com",
             "goldbetsports.com",
+            "golden-ages.org",
             "goldeneyevault.com",
             "goldenfrog.com",
             "goldjizz.com",
@@ -2210,6 +2215,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "gtricks.com",
             "gts-vpn.com",
             "gtv.org",
+            "gtv1.org",
             "gu-chu-sum.org",
             "guaguass.com",
             "guaguass.org",
@@ -2401,6 +2407,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "hongkongfp.com",
             "hongmeimei.com",
             "hongzhi.li",
+            "honven.xyz",
             "hootsuite.com",
             "hoovers.com",
             "hopedialogue.org",
@@ -2500,6 +2507,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "iask.ca",
             "iav19.com",
             "ibiblio.org",
+            "ibit.am",
             "iblist.com",
             "iblogserv-f.net",
             "ibros.org",
@@ -2737,6 +2745,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "jobso.tv",
             "joinbbs.net",
             "joinmastodon.org",
+            "joins.com",
             "journalchretien.net",
             "journalofdemocracy.org",
             "joymiihub.com",
@@ -2852,6 +2861,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "kurtmunger.com",
             "kusocity.com",
             "kwcg.ca",
+            "kwok7.com",
             "kwongwah.com.my",
             "kxsw.life",
             "kyofun.com",
@@ -2869,6 +2879,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "lamenhu.com",
             "lamnia.co.uk",
             "lamrim.com",
+            "landofhope.tv",
             "lanterncn.cn",
             "lantosfoundation.org",
             "laod.cn",
@@ -2904,6 +2915,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "lester850.info",
             "letou.com",
             "letscorp.net",
+            "letsencrypt.org",
             "levyhsu.com",
             "lflink.com",
             "lflinkup.com",
@@ -2999,6 +3011,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "lsmwebcast.com",
             "lsxszzg.com",
             "ltn.com.tw",
+            "luckydesigner.space",
             "luke54.com",
             "luke54.org",
             "lupm.org",
@@ -3528,6 +3541,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "ogaoga.org",
             "ogate.org",
             "ohchr.org",
+            "ohmyrss.com",
             "oikos.com.tw",
             "oiktv.com",
             "oizoblog.com",
@@ -4025,6 +4039,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "rsf-chinese.org",
             "rsf.org",
             "rsgamen.org",
+            "rsshub.app",
             "rssing.com",
             "rssmeme.com",
             "rtalabel.org",
@@ -4089,10 +4104,10 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "scramble.io",
             "scribd.com",
             "scriptspot.com",
-            "seapuff.com",
             "search.com",
             "search.xxx",
             "searchtruth.com",
+            "searx.me",
             "seatguru.com",
             "secretchina.com",
             "secretgarden.no",
@@ -4394,6 +4409,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "stoweboyd.com",
             "stranabg.com",
             "straplessdildo.com",
+            "streamate.com",
             "streamingthe.net",
             "streema.com",
             "streetvoice.com",
@@ -4570,6 +4586,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "thegay.com",
             "thegioitinhoc.vn",
             "thegly.com",
+            "theguardian.com",
             "thehots.info",
             "thehousenews.com",
             "thehun.net",
@@ -5453,6 +5470,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "yangjianli.com",
             "yasni.co.uk",
             "yayabay.com",
+            "ycombinator.com",
             "ydy.com",
             "yeahteentube.com",
             "yecl.net",
@@ -5503,6 +5521,7 @@ var proxy = 'SOCKS5 127.0.0.1:1080';
             "yourtrap.com",
             "yousendit.com",
             "youshun12.com",
+            "youthforfreechina.org",
             "youthnetradio.org",
             "youthwant.com.tw",
             "youtu.be",
