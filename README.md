@@ -1,4 +1,5 @@
 # gfwlist2pac
-Automatically convert gfwlist to pac everyday
+每天21:00(UTC)，5:00(UTC+8)自动更新
+用户规则：user-rule.txt
 
-Just use https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac
+https://raw.githubusercontent.com/zym013579/gfwlist2pac/master/gfwlist.pac
