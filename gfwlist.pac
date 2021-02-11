@@ -10,7 +10,8 @@ var rules = [
         [],
         [],
         [
-            "*pcredivewiki.tw*"
+            "*pcredivewiki.tw*",
+            "*sourceforge.net*"
         ]
     ],
     [
