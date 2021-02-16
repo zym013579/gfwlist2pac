@@ -8,7 +8,7 @@ var rules = [
     [
         [],
         [
-            "pcredivewiki.tw",
+            "ascii2d.net",
             "sourceforge.net"
         ]
     ],
