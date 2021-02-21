@@ -4,3 +4,4 @@
 ascii2d.net
 sourceforge.net
 files.pythonhosted.org
+repo.anaconda.com
