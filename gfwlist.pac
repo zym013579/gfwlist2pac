@@ -12,7 +12,8 @@ var rules = [
         [
             "*ascii2d.net*",
             "*sourceforge.net*",
-            "*files.pythonhosted.org*"
+            "*files.pythonhosted.org*",
+            "*repo.anaconda.com*"
         ]
     ],
     [
