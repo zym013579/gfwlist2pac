@@ -13,7 +13,8 @@ var rules = [
             "*ascii2d.net*",
             "*sourceforge.net*",
             "*files.pythonhosted.org*",
-            "*repo.anaconda.com*"
+            "*repo.anaconda.com*",
+            "*gitlab.com*"
         ]
     ],
     [
