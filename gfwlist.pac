@@ -14,7 +14,8 @@ var rules = [
             "*sourceforge.net*",
             "*files.pythonhosted.org*",
             "*repo.anaconda.com*",
-            "*gitlab.com*"
+            "*gitlab.com*",
+            "*github.com*"
         ]
     ],
     [
