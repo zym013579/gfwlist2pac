@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-04-22 00:23:05
+ * GFWList Last-Modified: 2021-04-23 00:59:42
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1786,6 +1786,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?getgom\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?geti2p\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?getlantern\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?getmalus\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?getsync\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gfsale\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gfw\\.press",
@@ -2524,6 +2525,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ourtv\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?overdaily\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?overplay\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ovpn\\.com",
             "^http://owl\\.li",
             "^http://ht\\.ly",
             "^http://htl\\.li",
@@ -2601,6 +2603,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?player\\.fm",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?playno1\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?playpcesor\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?plexvpn\\.pro",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?m\\.plixi\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?plurk\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pmatehunter\\.com",
@@ -4984,9 +4987,9 @@ var rules = [
             "*.getcloak.com*",
             "*.getfreedur.com*",
             "*.geti2p.net*",
-            "*.getlantern.org*",
-            "*.getjetso.com/forum*",
             "*getiton.com*",
+            "*.getjetso.com/forum*",
+            "*.getlantern.org*",
             "*.getsocialscope.com*",
             "*gfbv.de*",
             "*.gfgold.com.hk*",
