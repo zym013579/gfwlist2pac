@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-04-23 00:59:42
+ * GFWList Last-Modified: 2021-04-26 15:33:00
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -935,6 +935,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?search\\.yahoo\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yahoo\\.com\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?duckduckgo-owned-server\\.yahoo\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?000webhost\\.com",
             "^http://0rz\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?1-apple\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?1000giri\\.net",
@@ -1006,6 +1007,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?activpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?aculo\\.us",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?addictedtocoffee\\.de",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?addyoutube\\.com",
             "^http://adpl\\.org\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?adult-sex-games\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?advanscene\\.com",
@@ -1057,6 +1059,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?amnesty\\.org\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?amnestyusa\\.org",
             "^http://andygod\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?anchor\\.fm",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?anchorfree\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ancsconf\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?andfaraway\\.net",
@@ -1481,6 +1484,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?dbgjd\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?dcard\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?de-sci\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?deadline\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?decodet\\.co",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?delcamp\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?democrats\\.org",
@@ -2152,6 +2156,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kannewyork\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kanshifang\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kantie\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kaotic\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?karayou\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kawase\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kebrum\\.com",
@@ -2570,6 +2575,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?blog\\.pentalogic\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?peoplenews\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?peopo\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?phayul\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?phncdn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?photodharma\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?photofocus\\.com",
@@ -2861,6 +2867,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sjum\\.cn",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sketchappsources\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?skimtube\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lab\\.skk\\.moe",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?skybet\\.com",
             "^http://users\\.skynet\\.be/reves/tibethome\\.html",
             "^http://www\\.skype\\.com/intl/",
@@ -2901,6 +2908,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?soundofhope\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?soupofmedia\\.com",
             "^http://sourceforge\\.net/p.*/shadowsocksgui/",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?south-plus\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wlx\\.sowiki\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?spankbang\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?spb\\.com",
@@ -4078,7 +4086,6 @@ var rules = [
             "*annatam.com/chinese*",
             "*angelfire.com/hi/hayashi*",
             "*animecrazy.net*",
-            "*.animeshippuuden.com*",
             "*aniscartujo.com*",
             "*anonymise.us*",
             "*.anonymitynetwork.com*",
@@ -4599,7 +4606,6 @@ var rules = [
             "*.ddc.com.tw*",
             "*.ddhw.info*",
             "*.de-sci.org*",
-            "*packages.debian.org/zh-cn/lenny/gpass*",
             "*.definebabe.com*",
             "*delicious.com/GFWbookmark*",
             "*.democrats.org*",
@@ -5952,7 +5958,7 @@ var rules = [
             "*.persiankitty.com*",
             "*pfd.org.hk*",
             "*phapluan.org*",
-            "*phayul.com*",
+            "*.phayul.com*",
             "*philborges.com*",
             "*philly.com*",
             "*.picidae.net*",
