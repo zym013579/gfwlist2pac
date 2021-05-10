@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-05-03 01:08:10
+ * GFWList Last-Modified: 2021-05-10 19:38:51
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -2426,6 +2426,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?neowin\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nepusoku\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?net-fits\\.pro",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?netalert\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?netflav\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?netme\\.cc",
             "^http://newcenturymc\\.com",
