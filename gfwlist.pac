@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-05-25 16:04:13
+ * GFWList Last-Modified: 2021-05-30 14:14:33
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1099,6 +1099,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?asacp\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?asiaharvest\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?asianage\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?asianews\\.it",
             "^http://japanfirst\\.asianfreeforum\\.com/",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?asiansexdiary\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?asianwomensfilm\\.de",
@@ -1125,6 +1126,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?axureformac\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?boxun.*\\.azurewebsites\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?b-ok\\.cc",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?babylonbee\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?backchina\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?badiucao\\.com",
             "^http://.*2\\.bahamut\\.com\\.tw",
@@ -2058,8 +2060,12 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?incloak\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?incredibox\\.fr",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?independent\\.co\\.uk",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?indiablooms\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?indiandefensenews\\.in",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?indianarrative\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?timesofindia\\.indiatimes\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?indiemerch\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?initiativesforchina\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?inmediahk\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?innermongolia\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?inoreader\\.com",
@@ -4126,7 +4132,6 @@ var rules = [
             "*asg.to*",
             "*.asia-gaming.com*",
             "*.asiaharvest.org*",
-            "*asianews.it*",
             "*.asiatgp.com*",
             "*.asiatoday.us*",
             "*.askynz.net*",
@@ -5294,12 +5299,9 @@ var rules = [
             "*in-disguise.com*",
             "*.incapdns.net*",
             "*.incloak.com*",
-            "*timesofindia.indiatimes.com/dalai*",
-            "*timesofindia.indiatimes.com/defaultinterstitial.cms*",
             "*.indiemerch.com*",
             "*info-graf.fr*",
             "*website.informer.com*",
-            "*.initiativesforchina.org*",
             "*.inkui.com*",
             "*.inmediahk.net*",
             "*.inote.tw*",
