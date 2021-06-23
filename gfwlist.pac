@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-06-17 13:41:04
+ * GFWList Last-Modified: 2021-06-23 14:54:10
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1799,7 +1799,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?git\\.io",
             "^http://softwaredownload\\.gitbooks\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?github\\.blog",
-            "^https://gist\\.github\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?github\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?github\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?githubusercontent\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?githubassets\\.com",
@@ -5015,7 +5015,6 @@ var rules = [
             "*tw.gigacircle.com*",
             "*gigporno.ru*",
             "*.git.io*",
-            "*github.com/getlantern*",
             "*.github.io*",
             "*.gizlen.net*",
             "*.gjczz.com*",
